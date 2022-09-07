@@ -22,5 +22,5 @@
 }
     ```
 * 6. -
-* 7. Udemy front-end(HTML, CSS)
+* 7. Udemy front-end(HTML, CSS,SASS)
 * 8. B2
