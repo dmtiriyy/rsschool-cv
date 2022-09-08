@@ -15,7 +15,7 @@
         if(i + 1 === num){
             result += `${first}`;
         } else {
-            
+
         }
     }
     
